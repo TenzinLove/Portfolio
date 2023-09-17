@@ -14,6 +14,7 @@ Here, you should include appropriate screenshots with additional commentary.
 **DO**
 
 * Place your image files in the `images` folder
+! [Coucou](images/ConnectionToGitHub.png)
 * Choose your screenshots carefully so that they communicate the appropriate information.
   Many screenshots with no clear purpose or with trivial differences are of little value.
 * Provide <ins>descriptive</ins> commentary to explain why the screenshot is included. 
