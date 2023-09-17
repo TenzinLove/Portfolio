@@ -23,21 +23,12 @@ Once this has been done, I create a commit and do Git->Push to send it to GitHub
 
 ## Reflection
 
-For this section, decide what points are worth making and structure your content 
-appropriately.
+First of all, I think there are several reasons to use Visual Studio to manage our GitHub: 
 
-**DO**
+* Easy integration: it's easy to clone GitHub files in VS, to commit changes. This means 
+  we can work on a single IDE.
+* We can see the changes we've made without having to modify the GitHub.
 
-* Use sub-headings to differentiate between sections
-* Provide <ins>reflective</ins> commentary that discusses, for example, limitations of
-  your current configuration, how your configuration is appropriate for the current 
-  project, alternative configuration that might be appropriate in ther circumstances, 
-  etc.
-* Mention any difficulties you had setting up your working environment and how you 
-  resolved them
+These points can only help us in our projects.
 
-**DON'T**
-
-* Repeat the descriptive commentary from point 1
-* Give a blow-by-blow account of everything you did. Instead, you should highlight 
-  the important points.
+However, my setup is not ready to code in different languages.
