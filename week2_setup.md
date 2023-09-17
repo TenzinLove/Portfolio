@@ -8,8 +8,12 @@ So I've made some configurations in Visual Studio to achieve this.
 
 After installing Visual Studio and its workloads, I started configuring GitHub on VS.
 
+Firstly, I began by connecting my github account to VS.
+I then tried to clone my GitHub "Portfolio" file in VS. So, after doing Git-> Repository Clone, 
+we come across the following picture where I've selected my GitHub account and the folder.
 
-![Coucou](images/ConnectionToGitHub.png)
+![repositoryClone](images/RepositoryClone.png)
+
 * Choose your screenshots carefully so that they communicate the appropriate information.
   Many screenshots with no clear purpose or with trivial differences are of little value.
 * Provide <ins>descriptive</ins> commentary to explain why the screenshot is included. 
