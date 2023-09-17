@@ -1,19 +1,14 @@
 # Setup
 
-This section documents your practical work in week 2.
-
-The main requirements are to show that:
-
-1. Your development environment is correctly set up
-2. You understand the setup including potential alternative configuration settings
+In this section, I aim to set up Visual Studio to be able to control my GitHub (Portfolio) 
+via Visual Studio.
+So I've made some configurations in Visual Studio to achieve this.
 
 ## Environment configuration
 
-Here, you should include appropriate screenshots with additional commentary. 
+After installing Visual Studio and its workloads, I started configuring GitHub on VS.
 
-**DO**
 
-* Place your image files in the `images` folder
 ![Coucou](images/ConnectionToGitHub.png)
 * Choose your screenshots carefully so that they communicate the appropriate information.
   Many screenshots with no clear purpose or with trivial differences are of little value.
