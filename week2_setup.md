@@ -9,30 +9,17 @@ So I've made some configurations in Visual Studio to achieve this.
 After installing Visual Studio and its workloads, I started configuring GitHub on VS.
 
 Firstly, I began by connecting my github account to VS.
+
 I then tried to clone my GitHub "Portfolio" file in VS. So, after doing Git-> Repository Clone, 
 we come across the following picture where I've selected my GitHub account and the folder.
 
 ![repositoryClone](images/RepositoryClone.png)
 
-* Choose your screenshots carefully so that they communicate the appropriate information.
-  Many screenshots with no clear purpose or with trivial differences are of little value.
-* Provide <ins>descriptive</ins> commentary to explain why the screenshot is included. 
-  what it shows and point out any particularly significant details.
-* Modify your screenshots - for example, by adding arrows, outlines or other highlighting 
-  techniques - to enhance their communication value.
-* Remove unnecessary material from your screenshots such as toolbars, other windows and 
-  computer desktop to eliminate distractions.
-* Ensure that any important content is clearly legible. Pay particular attention to text
-  size and image resolution.
-* Use [numbered captions](https://towardsdev.com/3-ways-to-add-a-caption-to-an-image-using-markdown-f2ca30562be6) 
-  as labels for images. Also, use the caption numbers to refer to images in your text.
+We can now see that the Portfolio has been saved on the computer and that I can edit the texts.
 
-**DON'T**
+![PortfolioinVS](images/Portfolio_in_VS.png)
 
-* Expect the reader to understand your reasons for including a screenshot. If you can't
-  explain it, the screenshot will not do the job on its own.
-* Include self-evident comments. For example, don't simply list the values used on a
-  configuration page if those values are clearly visible in the screenshot.
+Once this has been done, I create a commit and do Git->Push to send it to GitHub.
 
 ## Reflection
 
