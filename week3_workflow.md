@@ -22,6 +22,7 @@ Firstly, each person assigns themselves to a task to allow everyone to know who 
 
 Then, everyone puts the progress of their task: task not started, in progress, finished as we can see 
 in the photo above.
+We see the progress of each : ![Progress](images/Photo2.png)
 
 
 
