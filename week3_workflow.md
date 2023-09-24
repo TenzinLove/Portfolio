@@ -16,8 +16,14 @@ The main requirements are to show that:
 
 ## Task workflow
 
-Here, you should use screenshots and descriptive commentary to show that the required
-have been completed successfully.
+![Assignement](images/Photo1.png)
+
+Firstly, each person assigns themselves to a task to allow everyone to know who is doing what.
+
+Then, everyone puts the progress of their task: task not started, in progress, finished as we can see 
+in the photo above.
+
+
 
 **DO**
 
