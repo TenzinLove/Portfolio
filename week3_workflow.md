@@ -41,10 +41,7 @@ Each step are visible in the next photo : ![Pullrequest](images/Photo3.png)
 
 ## Reflection
 
-Here, you should highlight any difficulties that you faced in completing the task, and
-how you resolved them.
+For my task, I had some difficulties with the database. So, I created a new database for my task specificly.
 
-You should also briefly discuss the current process and how it could be refined or
-improved in future iterations. For example, is the DoD adequate or too onerous? Is the
-current procedure for updating the task appropriate? Is the task board configured to
-work in an intuitive way?
+The way we work is good if we are alone. But I think it can quickly get messy and the grouping of all the 
+work confuses most people.
