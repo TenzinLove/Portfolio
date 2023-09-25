@@ -27,25 +27,17 @@ We see the progress of each with mine boxed: ![Progress](images/Photo2.png)
 
 
 
-**DO**
+After, I created a new branch to have all the elements of the main project and to have the possibility 
+to work on my task without changing the main project. 
 
-* Consider the layout of your content from the point of view of the reader. Many raw
-  screenshots will take up a lot of space. It may be better to adopt a different strategy
-  such as
-  * Using thumbnails with links to full-size images
-  * Combining two or more screenshots into a single image 
-  * Using partial screenshots to highlight only the important information
-  * etc.
-* Provide links to the actual objects (e.g. task, pull request, etc.) in the team project
-  in GitHub
-* Read through your work to make sure that the information comes across clearly
+Then, once the task has progressed, I made a pull request in the main project to share my work with
+the group.
 
-**DON'T**
+Finally, when my task was completed I merged it in the main project. So, there is a new folder 
+in the main project, the folder I created.
 
-* Use humour or informal language
-* Waste space with trivial or self-evident commentary
-* Abbreviate your commentary using (e.g. by using bullet points). Your text should be in
-  the form of grammatically correct sentences.
+Each step are visible in the next photo : ![Pullrequest](images/Photo3.png)
+
 
 ## Reflection
 
