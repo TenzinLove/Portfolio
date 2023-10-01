@@ -48,7 +48,7 @@ It's a code about which there are some interesting things to say.
 Firstly, the code doesn't respect the standard C# coding conventions. Indeed, we assign an "Int" 
 to the variable i instead of assigning it an "int" with a lowercase i.
 
-Moreover, the method "check" isn't explicit enough because we don't know what we're checking; 
+Moreover, the "check" method isn't explicit enough because we don't know what we're checking; 
 just like the variable "i", which doesn't correspond to anything. We can replace "check" with "IsEven" and "i" 
 with "TheNumber" or "NumberToCheck", for example. These changes make the code easier to read.
 
@@ -78,7 +78,7 @@ namespace MyApplication
 
 ```
 
-In conclusion, the improved code simplifies the method "check" by giving it a more descriptive name, 
+In conclusion, the improved code simplifies the "check" method by giving it a more descriptive name, 
 "IsEven," which immediately makes its purpose immediately obvious: determining if a number is even or odd. 
 By removing the "if" statement and directly returning the result of the condition directly, the code 
 becomes more concise.
