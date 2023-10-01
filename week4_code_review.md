@@ -10,16 +10,77 @@ code review challenges. For your portfolio, do the following:
 4. Show your improved version of the code in a second code block.
 5. Explain in one or more paragraphs why your solution is a good one.
 
-**DO**
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-* Use grammatically correct sentences and paragraphs for your commentary.
-* Make clear reference to the code in your commentary. GitHub Markdown does not support
-  line numbers and so you need to make sure that the reader knows which line you are
-  referring to from your description.
-* Refer to recognised principles or rules when describing your solution. "I thought it
-  would be better that way" is not sufficient: you need to have specific reasons.
 
-**DON'T**
 
-* Include multiple examples. Make the decision about which example shows your best
-  work and use that one.
+Here is the code I chose to work on:
+
+```
+
+using System;
+
+namespace MyApplication
+{
+  class Program
+  {
+    static bool check(Int i) 
+    {
+        if (i % 2 == 0)
+        {
+            return true;
+        }
+        return false;
+    }
+
+    static void Main(string[] args)
+    {
+        //... Code not shown - ignore this line
+    }  
+  }
+}
+
+```
+
+It's a code about which there are some interesting things to say.
+
+
+Firstly, the code doesn't respect the standard C# coding conventions. Indeed, we assign an "Int" 
+to the variable i instead of assigning it an "int" with a lowercase i.
+
+Moreover, the method "check" isn't explicit enough because we don't know what we're checking; 
+just like the variable "i", which doesn't correspond to anything. We can replace "check" with "IsEven" and "i" 
+with "TheNumber" or "NumberToCheck", for example. These changes make the code easier to read.
+
+To finish, we can simplify the "check" method by removing the "if" loop and returning the result directly.
+
+Here is the code modified: 
+
+```
+
+using System;
+
+namespace MyApplication
+{
+  class Program
+  {
+    static bool IsEven (int NumberToCheck) 
+    {
+        return NumberToCheck % 2 == 0 ;
+    }
+
+    static void Main(string[] args)
+    {
+        //... Code not shown - ignore this line
+    }  
+  }
+}
+
+```
+
+In conclusion, the improved code simplifies the method "check" by giving it a more descriptive name, 
+"IsEven," which immediately makes its purpose immediately obvious: determining if a number is even or odd. 
+By removing the "if" statement and directly returning the result of the condition directly, the code 
+becomes more concise.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
