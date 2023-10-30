@@ -135,15 +135,24 @@ The code is being reviewed by other team members. However, due to an issue with 
 Some screenshots about the page : 
 
 
+
+
+
 <img width="400" alt="ViewAlert_MainPage" src="https://github.com/TenzinLove/Portfolio/assets/135129024/f90d2c31-ce27-43f2-a9c5-6f204fe9e18f">
 
 Here, we can see the ViewAlert button which directs to the alerts page.
 
 
 
+
+
+
 <img width="400" alt="AlertPage" src="https://github.com/TenzinLove/Portfolio/assets/135129024/880db40d-1a9c-492b-95b2-a5586703256e">
 
 Here, it's the alert page with some alerts I created with the button "Create Alert"
+
+
+
 
 
 
