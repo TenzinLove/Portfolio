@@ -143,6 +143,6 @@ Here, we can see the ViewAlert button which directs to the alerts page.
 
 Here, it's the alert page with some alerts I created with the button "Create Alert"
 
-![Filter](Bureau/Software/Photos/Filter.png)
+![Filter](images/Filter.png)
 
 Here, I used the status filter by typing 'In progress,' and we can see the two alerts that have the status 'In progress.'
