@@ -135,14 +135,14 @@ The code is being reviewed by other team members. However, due to an issue with 
 Some screenshots about the page : 
 
 
-![OnMainPage](Bureau\Software\Photos\ViewAlert_MainPage.png)
+
 
 Here, we can see the ViewAlert button which directs to the alerts page.
 
-![AlertPage](Bureau\Software\Photos\AlertPage.png)
+
 
 Here, it's the alert page with some alerts I created with the button "Create Alert"
 
-![Filter](images/Filter.png)
+
 
 Here, I used the status filter by typing 'In progress,' and we can see the two alerts that have the status 'In progress.'
