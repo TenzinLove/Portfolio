@@ -151,7 +151,7 @@ public partial class AlertsPage : ContentPage
 
 
 The implementation of the code was punctuated by challenges, notably the delicate decision-making regarding
-the use of the async keyword and the determination of the access level, transitioning from internal to public.
+the use of the `async` and the determination of the access level, transitioning from `internal` to `public`.
 The choice of whether or not to incorporate the async keyword raised questions.
 
 <br>
