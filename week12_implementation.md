@@ -42,7 +42,7 @@ private async void OnAddAlertClicked(object sender, EventArgs e)
         }
         catch (Exception ex)
         {
-            // G�rer toute exception, par exemple, si le son n'est pas disponible
+            // Gérer toute exception, par exemple, si le son n'est pas disponible
             Console.WriteLine($"Erreur lors de la lecture du son : {ex.Message}");
         }
     }
@@ -156,6 +156,12 @@ This XAML code defines how the `ListView` named `SecurityAlertsListView` should 
 + A horizontal `StackLayout` is used to visually organize elements within each cell, with a margin of 10 pixels
 + `<Label Text="{Binding Name}" FontSize="18" />` is a label that displays the `Name` property of the bound object. Each item in the list will have a label showing the alert name
 + `<Label Text="{Binding Timestamp, StringFormat='{0:dd/MM/yyyy HH:mm:ss}'}" FontSize="13" />` is another label that displays the `Timestamp` property of the bound object, formatted as day, month, year, hour, minute, and second
+
+
+<img width="759" alt="MétriqueCode" src="https://github.com/TenzinLove/Portfolio/assets/135129024/7606794d-7b12-4207-9797-39ddf98692c2">
+
+Interesting elements about the code I made and it's about the same results for all the project. These are the results of the Code quality metrics which show the complexity of the code and functions implemented. 
+In this case, the grade is at 70 minimum which is really good. Moreover, we can see that there are not too much paths which shows that the code is just simple.
 
 ****
 
