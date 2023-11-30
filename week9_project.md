@@ -35,9 +35,9 @@ public class Alert
     [PrimaryKey, AutoIncrement]
     public int Id { get; set; } // Identifiant unique de l'alerte
     public string Message { get; set; } // Contenu du message d'alerte
-    public DateTime Timestamp { get; set; } // Horodatage de la création de l'alerte
-    public string Sender { get; set; } // L'expéditeur de l'alerte
-    public string Recipient { get; set; } // Le destinataire prévu de l'alerte
+    public DateTime Timestamp { get; set; } // Horodatage de la crÃ©ation de l'alerte
+    public string Sender { get; set; } // L'expÃ©diteur de l'alerte
+    public string Recipient { get; set; } // Le destinataire prÃ©vu de l'alerte
 }
 
 ```
@@ -178,6 +178,13 @@ alert's information (message, sender, recipient, timestamp) and inserts it into 
 ``InsertAsync``.
 
 However, the last part I did doesn't work because I still can't connect to the database.
+
+
+The review of my code :
+
+For the RaiseAlert method you've highlighted, i believe that you want to create repository files for alerts like the ones included in the main branch (Repository.cs and IRepository.cs), and then add the method inside one like shown here #51.
+
+That review allows me to improve my self and to understand how to improve my code to be more readable and undertanding.
 
 <br><br>
 
