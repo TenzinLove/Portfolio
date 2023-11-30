@@ -180,7 +180,7 @@ alert's information (message, sender, recipient, timestamp) and inserts it into 
 However, the last part I did doesn't work because I still can't connect to the database.
 
 
-The review of my code :
+#### The review of my code 
 
 For the RaiseAlert method you've highlighted, i believe that you want to create repository files for alerts like the ones included in the main branch (Repository.cs and IRepository.cs), and then add the method inside one like shown here #51.
 
